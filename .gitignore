@@ -1,0 +1,4 @@
+venv/
+azi_online/db/
+azi_online/azi_online/settings.py
+.idea/
